@@ -8,7 +8,7 @@
 * **情報の集約**: 気になる案件をスプレッドシートに自動蓄積し、後で比較検討しやすくしたい。
 
 ## 🛠 使用技術
-* **Language**: Python 3.x
+* **Language**: Python 3.13
 * **Library**: 
     * `Playwright` (スクレイピング)
     * `gspread` (Google Sheets API)
@@ -21,7 +21,7 @@
 
 ### 実行環境 (Runtime Environment)
 * **Language**: Python 3.13
-* **Libraries**: Playwright, gspread, discord.py (または Webhook)
+* **Libraries**: Playwright, gspread, Webhook
 
 ## 🚀 主な機能
 1.  **マルチカテゴリ巡回**: 複数カテゴリを一度にスキャン。
@@ -44,6 +44,7 @@
 │   └── usecase/           # 判定ロジック
 ├── main.py                # エントリーポイント
 └── README.md
+
 
 
 
