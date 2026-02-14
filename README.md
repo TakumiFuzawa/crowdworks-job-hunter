@@ -20,7 +20,7 @@
 3.  **重複ガード**: 同じ案件を二度通知しない設計。
 4.  **リアルタイム通知**: 条件合致時にDiscordへ即座に送信。
 
-![Discord通知の様子](discord_demo.png)
+<img src="discord_demo.png" alt="Discord通知の様子" width="400">
 
 5.  **スプレッドシート保存**: 案件情報を自動で蓄積します。
 
@@ -32,6 +32,7 @@
 │   └── usecase/           # 判定ロジック
 ├── main.py                # エントリーポイント
 └── README.md
+
 
 
 
