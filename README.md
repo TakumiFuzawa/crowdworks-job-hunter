@@ -24,6 +24,9 @@
 
 5.  **スプレッドシート保存**: 案件情報を自動で蓄積します。
 
+<img src="spreadsheet_demo.png" alt="スプレッドシート保存" width="400">
+
+
 ## 📂 フォルダ構成
 ```text
 ├── src/
@@ -32,6 +35,7 @@
 │   └── usecase/           # 判定ロジック
 ├── main.py                # エントリーポイント
 └── README.md
+
 
 
 
