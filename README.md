@@ -13,6 +13,15 @@
     * `Playwright` (スクレイピング)
     * `gspread` (Google Sheets API)
     * `Discord Webhook` (通知)
+    
+### 開発環境 (Development Environment)
+* **Editor**: VS Code
+* **OS**: Windows 11 (または macOS など)
+* **Package Manager**: pip
+
+### 実行環境 (Runtime Environment)
+* **Language**: Python 3.13
+* **Libraries**: Playwright, gspread, discord.py (または Webhook)
 
 ## 🚀 主な機能
 1.  **マルチカテゴリ巡回**: 複数カテゴリを一度にスキャン。
@@ -35,6 +44,7 @@
 │   └── usecase/           # 判定ロジック
 ├── main.py                # エントリーポイント
 └── README.md
+
 
 
 
