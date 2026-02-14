@@ -1,0 +1,11 @@
+# 仮想環境（重いので絶対除外）
+venv/
+__pycache__/
+
+# 秘密情報（セキュリティのため絶対除外）
+.env
+credentials.json
+src/infrastructure/config.py
+
+# 一時ファイル
+debug_page.html
